@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.footer-section {
+  width: 100%;
+  height: 15vh;
+  background-color: #252525;
+  color: white;
+  display: flex;
+}
+.footer-text {
+  width: 100%;
+  text-align: center;
+  margin: auto;
+}
